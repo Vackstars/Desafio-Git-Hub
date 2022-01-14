@@ -8,4 +8,5 @@
 - *git push*: envia os dados comitados para o repositorio em nuvem
 - *git pull*: baixa o repositorio que esta na nuvem para o seu computador
 - *git clone*: clona um repositorio da nuvem para o seu computador
+- git status: mostra o status do seu workspace
 
